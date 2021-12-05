@@ -43,20 +43,20 @@ Ap√≥s o arquivo ser copiado para o pendrive, deve ser realizado o processo padr√
 
 ### Espirais:
 
-![calibration_resinfinder_spirals.png](Testes%20de%20calibrac%CC%A7a%CC%83o%20de%20resinas%2083baed08927a4c70a900d043a4c8a1c4/calibration_resinfinder_spirals.png)
+![alt text](https://github.com/Smooth3DResinas/calibracao/blob/main/readme/calibration_resinfinder_spirals.png?raw=true)
 
 ### Barras Zebra:
 
-![calibration_resinfinder_bars.png](Testes%20de%20calibrac%CC%A7a%CC%83o%20de%20resinas%2083baed08927a4c70a900d043a4c8a1c4/calibration_resinfinder_bars.png)
+![alt text](https://github.com/Smooth3DResinas/calibracao/blob/main/readme/calibration_resinfinder_bars.png?raw=true)
 
 ### Pilares:
 
-![calibration_resinfinder_pillars.png](Testes%20de%20calibrac%CC%A7a%CC%83o%20de%20resinas%2083baed08927a4c70a900d043a4c8a1c4/calibration_resinfinder_pillars.png)
+![alt text](https://github.com/Smooth3DResinas/calibracao/blob/main/readme/calibration_resinfinder_pillars.png?raw=true)
 
 ### Texto:
 
-![calibration_resinfinder_text.png](Testes%20de%20calibrac%CC%A7a%CC%83o%20de%20resinas%2083baed08927a4c70a900d043a4c8a1c4/calibration_resinfinder_text.png)
+![alt text](https://github.com/Smooth3DResinas/calibracao/blob/main/readme/calibration_resinfinder_text.png?raw=true)
 
 ## Amostra:
 
-![TESTE.jpg](Testes%20de%20calibrac%CC%A7a%CC%83o%20de%20resinas%2083baed08927a4c70a900d043a4c8a1c4/TESTE.jpg)
+![alt text](https://github.com/Smooth3DResinas/calibracao/blob/main/readme/exemplo.jpg?raw=true)
