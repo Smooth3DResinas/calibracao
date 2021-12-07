@@ -7,9 +7,8 @@ Aqui iremos explicar como realizar os testes de exposição das resinas **Smooth
 
 Você deve navegar até a pasta relacionada ao modelo de sua impressora e copiar para o pendrive o arquivo relacionado a resina que você quer utilizar, por exemplo:
 
-- elegooMars2Pro_Resina4K.ctb
-- elegooMars2Pro_ResinaModelismo.ctb
-- elegooMars2Pro_ResinaPadrão.ctb
+- calibracao_0.8_1.8seg.ctb
+- calibracao_1.6_2.6seg.ctb
 
 Após o arquivo ser copiado para o pendrive, deve ser realizado o processo padrão de impressão.
 
@@ -18,7 +17,6 @@ Após o arquivo ser copiado para o pendrive, deve ser realizado o processo padr�
 - ELEGOO MARS 2 PRO [ctb]
 - QIDI Shadow5.5s [ctb]
 - Anycubic Photon S [pws]
-- Phrozen Sonic 4K [ctb]
 
 # Analisando os resultados:
 
